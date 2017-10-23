@@ -5,11 +5,18 @@ lab: OK Lab Mecklenburg-Vorpommern
 lat: 53.6007
 long: 11.4433
 markerposition: right
+lat: 53.2639
+long: 13.0622
+markerposition: right
 
 members:
 - name: Michael Milz
   username-github: michamilz
   username-twitter: micha_milz
+  
+- name: Iris Wessolowski
+  username-github: iwess
+  username-twitter: iwess1
 
 links:
 - name: 
@@ -18,3 +25,4 @@ links:
 
 leads:
 - name: Michael Milz
+- name: Iris Wessolowski
